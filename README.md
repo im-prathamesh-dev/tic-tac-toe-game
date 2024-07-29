@@ -30,8 +30,11 @@ To run the game locally, you need a web browser. No additional installations are
 
 TicTacToe/
 │
+
 ├── index.html        # The main HTML file
+
 ├── style.css         # The CSS file for styling
+
 └── script.js         # The JavaScript file for game logic
 
 
